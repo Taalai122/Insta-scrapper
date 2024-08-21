@@ -10,7 +10,7 @@ L = instaloader.Instaloader(
     post_metadata_txt_pattern=''
 )
 
-username = 'cristiano'
+username = 'enter_instagram_username'
 
 profile = instaloader.Profile.from_username(L.context, username)
 
