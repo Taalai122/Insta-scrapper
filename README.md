@@ -1,2 +1,5 @@
 # Insta-scrapper
-Instagram photo scrapper
+        INSTAGRAM PHOTO SCRAPPER
+Firstly clone entire project
+Install instaloader
+
